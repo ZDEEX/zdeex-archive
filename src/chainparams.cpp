@@ -1926,15 +1926,35 @@ void *chainparams_commandline() {
             checkpointData = //(Checkpoints::CCheckpointData)
                    {
                             boost::assign::map_list_of
-                    // Generated at 1704653135 via hush3 util/checkpoints.pl by Duke Leto
-        (1000,     uint256S("0x000003cec1da4c55e7952915367f4ceaf005bfaa0b1dfb0de26c442a2b710f94"))
-        (2000,     uint256S("0x000000134bc32850b7d089bf259d874b44ab1b701bce42a43aac5c6cc4cd127e"))
-        (3000,     uint256S("0x0000000014e80d341cd1583a86f28248359d3f63e29ad9d9f0f7c9b8aacc50db"))
-        (4000,     uint256S("0x000000000f27fc801c21371b96e3ec8de4b44389f0df24204453d8d2f0bc21c1"))
-        (5000,     uint256S("0x00000000464cbb6982f5cb1134b34ef13dfb2a972ab6eb31c67f81bfa51f6313"))
-        ,(int64_t)  1704506859, // time of last checkpointed block
-        (int64_t) 0,      // total txs
-        (double)  576        // txs in the last day before block 5454
+                    // Generated at 1704664585 via hush3 util/checkpoints.pl by Duke Leto
+        (228,     uint256S("0x01141d371e372eae75a2cacf8ba462946da8fc9a6a0044571f4140509f9b3ed1"))
+        (456,     uint256S("0x000feea82f7019a7ec7f9f5cf8153c17dd5244dbd7a1bb2e47c5a6c4310794cd"))
+        (684,     uint256S("0x000046d48dd709ccc3fb18d1d41dd22e064b274a92ab2b102c94aa5f1d22cc49"))
+        (912,     uint256S("0x0000046f943000963076a62fcce32c32372c82b5fea6cf0491bcbfd37b954b2a"))
+        (1140,     uint256S("0x00000166eb8bb13d291bd8536b450cdadf1a22321bab737b93ca973809f24992"))
+        (1368,     uint256S("0x000004132b43b47244b70360f73165e7f87a5cdc6c8100d9fdd4217773efa1d3"))
+        (1596,     uint256S("0x0000002233e5afabf4d4aa8a486040a06dbf487950c72816fe2db29d7dbe5087"))
+        (1824,     uint256S("0x000001c17f264860b757b0d64018fa9840e72c992461b5c8994b1dbbe637ab31"))
+        (2052,     uint256S("0x0000000d1239f1e750b004f46e28f322cd82d8d93355c986ebfff939143098ba"))
+        (2280,     uint256S("0x00000007620ad38ce369cfa55cd97f25d9d4c364a6211ab40d8d5a45cf10a32a"))
+        (2508,     uint256S("0x0000000015f879b82af27cfb5e7dc9bee6fb53b11c3ef24067e5b25ef4afe6a5"))
+        (2736,     uint256S("0x000000000e622d44b7adb83e97e737cd894bd4bbd5987a0b7aa24b4fa67d6168"))
+        (2964,     uint256S("0x000000001b987cd7f3d197c5aee60397715bd528f6e1060ac4fa7c1631334cdb"))
+        (3192,     uint256S("0x0000000030ae3e71eb5df97da761acaa42805e5528413969be051f8e6aeda6fe"))
+        (3420,     uint256S("0x0000000018ba241ddb3d5d89f1cd8c01956c9dceafeb82c9a2a9dc672fcff4fb"))
+        (3648,     uint256S("0x000000001aee472d3c2845844855c8a421fecd516c43d7b6c878e5372c203fc4"))
+        (3876,     uint256S("0x00000000de28456b04b5bdd28d24a32a1f774ad8b06efbf7399ece10cb0b859e"))
+        (4104,     uint256S("0x00000000728634f2f869d83bad6de73582d50e1ae6f9e414e6309e8a102485cc"))
+        (4332,     uint256S("0x000000001628fdc1048da3b9016c386dfe45ac9a50406aaec6f9c3c47c2b86b9"))
+        (4560,     uint256S("0x000000005c147c1ab4208fbc482197c35813bca535c147632b014ed111d1eaaf"))
+        (4788,     uint256S("0x00000000338e7a02661b6ca5c65a82141e8ffef3f12678c0249ae4772ecb8524"))
+        (5016,     uint256S("0x00000000348b101595c45373cfb9796d748e20fe5c0849fd2d6e6f3cd6aa222a"))
+        (5244,     uint256S("0x000000006d1eb0107e8106f5d57995d7edb35b8d01fd611997f4246c2a838c3a"))
+        (5472,     uint256S("0x00000000601d337d6ae950ec03fe3c9eb5e65f748efce751edc7d2bc4886414b"))
+        ,(int64_t)  1704659124, // time of last checkpointed block
+        (int64_t) 7711,      // total txs
+        (double)  576        // txs in the last day before block 5485
+
                     };
         } else {
             // all other HSC's with no checkpoints
